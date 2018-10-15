@@ -1,5 +1,5 @@
-*.js linguist-language=OC
+*.js linguist-language=Objective-C
 
-*.css linguist-language=OC
+*.css linguist-language=Objective-C
 
-*.html linguist-language=OC
+*.html linguist-language=Objective-C
